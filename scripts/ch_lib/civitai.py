@@ -12,10 +12,10 @@ from . import setting
 suffix = ".civitai"
 
 url_dict = {
-    "modelPage":"https://civitai.com/models/",
-    "modelId": "https://civitai.com/api/v1/models/",
-    "modelVersionId": "https://civitai.com/api/v1/model-versions/",
-    "hash": "https://civitai.com/api/v1/model-versions/by-hash/"
+    "modelPage":"https://civitai.work/models/",
+    "modelId": "https://civitai.work/api/v1/models/",
+    "modelVersionId": "https://civitai.work/api/v1/model-versions/",
+    "hash": "https://civitai.work/api/v1/model-versions/by-hash/"
 }
 
 model_type_dict = {
